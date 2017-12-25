@@ -1,1 +1,1 @@
-Materils are similar to documents
+Materials are similar to documents
